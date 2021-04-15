@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+}
+
+main form {
+    background-image: url("https://raw.githubusercontent.com/LTUC/amman-201d22/main/class-10/lab-a/lab-assets/list-bg.png");
+    list-style-type:square;
+
+}
+
+hr {
+    border-top: 10px dashed grey;
+    margin: 10;
+    background-repeat : repeat;
+    height: 20px;
+}
+
+h1 {
+    margin-left: 0%;
+    font-family: 'Kaushan Script', cursive;
+}
+
+h5 {
+    margin-left: 0%;
+}
+
+#m1 {
+    display: inline;
+    float: right;
+    margin-bottom: 10%;
+}
+
+#m h1 span{
+    font-size: 10px;
+}
+
+section{
+    position: relative;
+}
+
+section button{
+    position: absolute;
+    right: 0px;
+    top:25px;
+    padding: 20px;
+    
+    font-size: xx-large;
+    color: white;
+    background-color:rosybrown;
+    border:none;
+
+}
+
+#m3{
+    margin-left: 63%;
+}
+
+#mftr{
+    
+    margin-left:40%;
+    
+    color:lightgray;
+}
+
+footer img{
+    margin-left:50%;
+    position: absolute;
+}
+
+#new {
+    border-top: 1px dashed grey;
+}
+
+h2{
+    font-family: 'Teko', sans-serif;
+    font-size:xx-large;
+}
