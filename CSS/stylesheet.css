@@ -25,10 +25,11 @@ form input label{
 }
 
 hr {
-    border-top: 10px dashed grey;
-    margin: 10;
-    background-repeat : repeat;
-    height: 20px;
+    background-image: url("/image/hr-img.png");
+    background-repeat: repeat-x;
+    border-top: 0.5em solid #bbb;
+    border-radius: 0.313em;
+   
 }
 
 h1 {
